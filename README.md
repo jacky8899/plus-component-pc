@@ -1,1 +1,1 @@
-# plus-component-pcos
+# plus-component-pc
