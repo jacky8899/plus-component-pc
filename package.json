@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhiyicx/plus-component-pc.git"
+    "url": "git+https://github.com/jacky8899/plus-component-pc.git"
   },
   "author": "HsLee",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/zhiyicx/plus-component-pc/issues"
+    "url": "https://github.com/jacky8899/plus-component-pc/issues"
   },
-  "homepage": "https://github.com/zhiyicx/plus-component-pc#readme",
+  "homepage": "https://github.com/jacky8899/plus-component-pc#readme",
   "devDependencies": {
     "autoprefixer": "^6.7.7",
     "babel-core": "^6.24.1",
